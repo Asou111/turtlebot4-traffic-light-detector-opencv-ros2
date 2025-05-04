@@ -1,0 +1,4 @@
+[console_scripts]
+robot_node = robot.robot_node:main
+traffic_light = robot.traffic_light:main
+

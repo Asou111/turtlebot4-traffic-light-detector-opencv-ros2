@@ -1,0 +1,21 @@
+[1.097s] Invoking command in '/home/souhaila/turtle_ws/src/robot': PYTHONPATH=/home/souhaila/turtle_ws/build/robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/souhaila/turtle_ws/install/robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot build --build-base /home/souhaila/turtle_ws/build/robot/build install --record /home/souhaila/turtle_ws/build/robot/install.log --single-version-externally-managed install_data
+[1.430s] running egg_info
+[1.431s] writing ../../build/robot/robot.egg-info/PKG-INFO
+[1.431s] writing dependency_links to ../../build/robot/robot.egg-info/dependency_links.txt
+[1.432s] writing entry points to ../../build/robot/robot.egg-info/entry_points.txt
+[1.434s] writing requirements to ../../build/robot/robot.egg-info/requires.txt
+[1.434s] writing top-level names to ../../build/robot/robot.egg-info/top_level.txt
+[1.442s] reading manifest file '../../build/robot/robot.egg-info/SOURCES.txt'
+[1.455s] writing manifest file '../../build/robot/robot.egg-info/SOURCES.txt'
+[1.461s] running build
+[1.461s] running build_py
+[1.463s] running install
+[1.464s] running install_lib
+[1.465s] running install_data
+[1.465s] running install_egg_info
+[1.468s] removing '/home/souhaila/turtle_ws/install/robot/lib/python3.10/site-packages/robot-0.0.0-py3.10.egg-info' (and everything under it)
+[1.469s] Copying ../../build/robot/robot.egg-info to /home/souhaila/turtle_ws/install/robot/lib/python3.10/site-packages/robot-0.0.0-py3.10.egg-info
+[1.470s] running install_scripts
+[1.500s] Installing robot_node script to /home/souhaila/turtle_ws/install/robot/lib/robot
+[1.500s] writing list of installed files to '/home/souhaila/turtle_ws/build/robot/install.log'
+[1.563s] Invoked command in '/home/souhaila/turtle_ws/src/robot' returned '0': PYTHONPATH=/home/souhaila/turtle_ws/build/robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/souhaila/turtle_ws/install/robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot build --build-base /home/souhaila/turtle_ws/build/robot/build install --record /home/souhaila/turtle_ws/build/robot/install.log --single-version-externally-managed install_data
